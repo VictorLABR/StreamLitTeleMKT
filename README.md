@@ -1,62 +1,65 @@
-# Título do projeto
+# Telemarketing Microprojects via Streamlit & Render
 
-Um simples resumo do uso/propósito do projeto.
+This branch gathers my studies on Streamlit App Dev and it's deployments via Render. Telemkt is only a simples theme, not the real focus of the branch.
 
-## Descrição do projeto
-
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
-
-### Link para a aplicação (LIVE)
+### Link to the application (LIVE)
 https://telemkt.onrender.com/
+https://streamlittelemkt.onrender.com/
 
-## Utilização
+>> Soon:
 
-### Dependencias
+## Project description
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+A paragraph delving more into your project and a general explanation of usage.
 
-### Instalação
+## Usage
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+### Dependencies
 
-### Executando o projeto
+* Describes any prerequisites, libraries, OS version, etc., that are needed to run the project.
+* example. Windows 10...
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
+### Installation
+
+* How/where to download your project/program
+* Any necessary modifications to files/directories
+
+### Running the project
+
+* How to run the project/program
+* Step by step in topics (bullet points)
 ```
-bloco de código para os comandos necessários
+code block for the required commands
 ```
 
-## Ajuda
+## Help
 
-Qualquer ponto importante de problemas ou erros comuns
+Any important points of common problems or errors
 ```
-comando para rodar se o programa tiver uma informação de ajuda
+command to run if the program has help information
 ```
 
-## Autores
+## Authors
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
+Names of project developers and contact information.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Victor Lovato
+[@VictorLovatodeAbre](https://www.linkedin.com/in/victor-lovato-de-abreu-172a02225/)
 
-## Histórico de versões.
+## Version history.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
+*0.2
+	* Various bug fixes and optimization
+*0.1
+	* First version
 
-## Licença de uso
+## Use license
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+This project has a license to use [NAME HERE] - access the LICENSE.md file for more details.
 
-## Fontes de inspiração
+## Sources of inspiration
 
-Inspiração, trechos de códigos utilizados, etc.
+Inspiration, code snippets used, etc.
 * [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
